@@ -16,7 +16,7 @@ To illustrate the severity of the earthquakes in relation to the tectonic plates
 - Mapbox API, Leaflet, JavaScript, GeoJSON, d3.js, CSS, HTML
 
 ## Final Project Preview
-![website_preview](https://github.com/jjin92/Mapping_Earthquakes/blob/master/Earthquake_Challenge/screenshot.png)
+![website_preview](https://github.com/jjin92/Mapping_Earthquakes/blob/master/Earthquake_Challenge/preview.png)
 
 ## Solution
 *1. JavaScript*
