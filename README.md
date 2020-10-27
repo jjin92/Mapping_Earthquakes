@@ -19,6 +19,8 @@ To illustrate the severity of the earthquakes in relation to the tectonic plates
 ![website_preview](https://github.com/jjin92/Mapping_Earthquakes/blob/master/Earthquake_Challenge/preview.png)
 
 ## Solution
+The final code and files are located in `Earthquake_Challenge` folder.
+
 *1. JavaScript*
 - Create street map layer according to Mapbox API documentation, and use map `street-v11`. Set max zoom to 18. Follow the same method, create satelliteStreets layer using map `satellite-streets-v11` and create light layer using map `light-v10`.
 - Set `baseMaps` variable and include all three map layers. This will allow the user to select the map style of his/her choice.
